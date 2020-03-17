@@ -16,7 +16,7 @@ A WMI filter on which processes to include. Recommended to keep down number of r
 
 `%` is a wildcard, and can be used to match on substrings.
 
-Example: `--collector.process.processes-where="Name LIKE 'firefox%'`
+Example: `--collector.process.processes-where="Name LIKE 'firefox%'"`
 
 ## Metrics
 
